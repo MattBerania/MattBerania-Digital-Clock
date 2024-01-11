@@ -59,3 +59,14 @@ h2{
     font-size: 20px;
     background: rgb(179, 99, 179);
 }
+
+.timer .btn{
+    bottom: 0;
+    position: relative;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    background: rgba(177, 79, 139, 0.719);
+    color: antiquewhite;
+    
+}
